@@ -1,15 +1,15 @@
 ---
 home: true
 heroImage: /static/code.png
-heroText: Data Science Document
-tagline: For Data Scientist
+heroText: Data Science 
+tagline: For Data Collection
 actionText: Quick Start →
 actionLink: /en/guide/
 features:
 - title: Linux/Database
   details: Oracle, MySMQL, Postgres, Redis, Mongo, GaussDB, Sqlite, Hbase。
 - title: Data Analysis
-  details: Python Data Analysis，Pandas, Matplotlib, Numpy, Scipy, Sympy。
+  details: Pandas, Matplotlib, Numpy, Scipy, Sympy。
 - title: Data Visualization
   details: Vue+AntDesignVue+Echarts/AndV, Matplotlib, PyCharts, Dash/Ploty, Thingjs/Threejs, D3.js。
 - title: Machine Learning/Deep Learning

@@ -2,12 +2,12 @@ module.exports =  ctx => ({
   locales: {
     '/': {
       lang: 'zh-CN',
-      title: '数据科学参考文档',
+      title: '数据科学技术栈',
       description: '数据科学文档，包括开发、数据分析、数据库、机器学习、深度学习等'
     },
     '/en/': {
       lang: 'en-US',
-      title: 'Data Science Document',
+      title: 'Data Science Collection',
       description: 'Code Document (Based on VuePress)'
     }
   },
