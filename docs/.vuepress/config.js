@@ -16,7 +16,7 @@ module.exports =  ctx => ({
       'link',
       {
         rel: 'icon',
-        href: '/static/logo.png'
+        href: '/favicon.ico'
       }
     ]
   ],
