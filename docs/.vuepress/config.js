@@ -75,7 +75,8 @@ module.exports =  ctx => ({
           `<div class="custom-block info"><p class="custom-block-title">${info}</p>`,
         after: '</div>'
       }
-    ]
+    ],
+    ['vuepress-plugin-code-copy', true]
   ],
   extraWatchFiles: [
     '.vuepress/nav/en.js',

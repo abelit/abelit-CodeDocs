@@ -11,5 +11,8 @@
   },
   "devDependencies": {
     "vuepress": "^1.7.1"
+  },
+  "dependencies": {
+    "vuepress-plugin-code-copy": "^1.0.6"
   }
 }
